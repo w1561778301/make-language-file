@@ -1,0 +1,15 @@
+{
+  "name": "make-language-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel": "^1.0.1",
+    "node-xlsx": "^0.21.0"
+  }
+}
